@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+### Added
+- Sorting recipes in list by creation and modification date   
+  [#623](https://github.com/nextcloud/cookbook/pull/623) @seyfeb
+
 ### Fixed
 - Added translation for nutritient-value label placeholder
   [#596](https://github.com/nextcloud/cookbook/pull/596) @seyfeb
